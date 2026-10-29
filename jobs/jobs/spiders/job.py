@@ -4,7 +4,6 @@ This is a spider for scraping job listings from the website realpython.github.io
 
 """
 
-
 # Importing library
 import scrapy
 
